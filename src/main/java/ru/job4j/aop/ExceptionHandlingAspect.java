@@ -1,4 +1,4 @@
-package ru.job4j.loggingAndException;
+package ru.job4j.aop;
 
 public class ExceptionHandlingAspect {
 }
